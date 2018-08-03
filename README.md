@@ -1,4 +1,8 @@
 # Data Science Programming Bootcamp for Kennesaw State University. Python: Afternoon session Part#2
+
+![alt text](https://github.com/sb0709/bootcamp_KSU/blob/master/pictures/Analytics%20and%20Data%20Science%20Institute_logo.png?raw=true)
+
+
 ### Content
 ##### 1:00pm 
 * Data Management/Joining/Linking/Simple Calculations
