@@ -1,4 +1,4 @@
-# Bootcamp in Data Science for Kennesaw State University. Python Track Part#2
+# Data Science Programming Bootcamp for Kennesaw State University. Python: Afternoon session Part#2
 
 ### Environment preparation: Anaconda "use".
 With Anaconda use, path setup and conda ready. 
@@ -31,6 +31,12 @@ Installation Documentation:
 * _conda install -y --name bootcamp_ksu numpy scipy matplotlib pandas sympy seaborn scikit-learn_ **# all Linear algebra we can do with the numpy library but installing all the dependencies from begining.**
 * _conda update -y --name bootcamp_ksu numpy scipy matplotlib pandas sympy seaborn scikit-learn_ **# if you have already installed the libraries.**
 * _conda upgrade -y --name bootcamp_ksu numpy scipy matplotlib pandas sympy seaborn scikit-learn_ **# if you have them already installed and want to upgrade to lates and greatest.**
+
+#### Orange Installation (usually Anaconda has the Orange installed by default or is easy to install thru navigator)_ I'm using macOS for this part: 
+**Documentation:** _https://orange.biolab.si/download/_
+* conda config --add channels conda-forge
+* conda install -y --name bootcamp_ksu orange3
+* conda install -c defaults pyqt=5 qt
 
 ##### Kernel for conda environments
 * _python -m ipykernel install --user --name bootcamp_conda_ksu --display-name "Python36 (bootcamp_conda_ksu)"_ **# display name is for what we will see in the jupyter under the kernels.**
