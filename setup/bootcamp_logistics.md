@@ -32,6 +32,7 @@ Installation Documentation:
 * _conda update -y --name bootcamp_ksu numpy scipy matplotlib pandas sympy seaborn scikit-learn statsmodels_ **# if you have already installed the libraries.**
 * _conda upgrade -y --name bootcamp_ksu numpy scipy matplotlib pandas sympy seaborn scikit-learn statsmodels_ **# if you have them already installed and want to upgrade to lates and greatest.**
 * _conda install -y --name bootcamp_ksu statsmodels_
+* _conda install --name bootcamp_ksu pandasql_ #to install the SQL for pandas
 
 #### Orange Installation (usually Anaconda has the Orange installed by default or is easy to install thru navigator)_ I'm using macOS for this part:
 **Documentation:** _https://orange.biolab.si/download/_
@@ -40,7 +41,7 @@ Installation Documentation:
 * conda install -c defaults pyqt=5 qt
 * conda install -y --name bootcamp_ksu -c conda-forge jupyterlab #to install jupyter lab
 * conda install -y --name bootcamp_ksu jupyter #to install jupyter notebook in the environment
-* pip install -U pandasql #to install the SQL for pandas
+
 
 ##### Kernel for conda environments
 * _python -m ipykernel install --user --name bootcamp_conda_ksu --display-name "Python36 (bootcamp_conda_ksu)"_ **# display name is for what we will see in the jupyter under the kernels.**
