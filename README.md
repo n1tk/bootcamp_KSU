@@ -28,3 +28,5 @@ Note:
 Applied Linear Algebra:
 Matrix Algebra
 Writing Algorithms
+
+* email contact: sbuciuma@students.kennesaw.edu
