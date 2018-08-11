@@ -2,9 +2,10 @@
 
 ![alt text](https://github.com/sb0709/bootcamp_KSU/blob/master/pictures/Analytics%20and%20Data%20Science%20Institute_logo.png?raw=true)
 
+# For setup please follow: bootcamp_KSU/setup/setup.md
 
 ### Content
-##### 1:00pm 
+##### 1:00pm
 * Data Management/Joining/Linking/Simple Calculations
 
 * Applied Linear Algebra/Linear Modeling
@@ -15,14 +16,14 @@
 
 ##### 4:00pm End of Class
 
-Note: 
+Note:
 
 * 1:00 PM Data Management/Joining/Linking/Simple Calculations - Applied Linear Algebra
 * 1:30 PM Applied Linear Algebra/Matrix Algebra/Linear Modeling
 
 * 2:30 PM Descriptive Statistics and Visualization - Writing/Implement simple Algorithm/formulas
 * 3:00 PM Descriptive Statistics and Visualization - Multivariate Modeling, Pivot Tables, Analysis.
-* 3:30 PM Descriptive Statistics and Visualization - Multivariate Modeling using the Orange python. 
+* 3:30 PM Descriptive Statistics and Visualization - Multivariate Modeling using the Orange python.
 * 4:00 PM Summary
 
 Applied Linear Algebra:
