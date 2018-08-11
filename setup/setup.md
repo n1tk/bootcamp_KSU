@@ -24,10 +24,18 @@ Installation Documentation:
 ##### Activate new environemnt and install dependencies:
 * _source activate bootcamp_DS_  **# On Windows, remove the word 'source'.**
 
+##### Install the kernel for the jupyter notebook
+* _conda install ipykernel # or pip install ipykernel_
+* _python -m ipykernel install --user --name bootcamp_DS --display-name "Python36(bootcampDS)"_ #than once opening jupyter notebook, select Kernel/Change Kernel and select "Python36(bootcampDS)"
+
 ##### Install, Update or upgrade required packages:
-* _conda install -y --name bootcamp_DS numpy scipy matplotlib pandas sympy seaborn=0.9.0 scikit-learn statsmodels pandasql_ **# all Linear algebra we can do with the numpy library but installing all the dependencies from begining.**
-* _conda update -y --name bootcamp_DS numpy scipy matplotlib pandas sympy seaborn=0.9.0 scikit-learn statsmodels pandasql_ **# if you have already installed the libraries.**
-* _conda upgrade -y --name bootcamp_DS numpy scipy matplotlib pandas sympy seaborn=0.9.0 scikit-learn statsmodels pandasql_ **# if you have them already installed and want to upgrade to lates and greatest.**
+* _conda install -c https://conda.anaconda.org/anaconda seaborn_ #seaborn is required the latest version.
+* _conda install -y --name bootcamp_DS numpy scipy matplotlib pandas sympy scikit-learn statsmodels pandasql_ **# all Linear algebra we can do with the numpy library but installing all the dependencies from begining.**
+* _conda update -y --name bootcamp_DS numpy scipy matplotlib pandas sympy scikit-learn statsmodels pandasql_ **# if you have already installed the libraries.**
+* _conda upgrade -y --name bootcamp_DS numpy scipy matplotlib pandas sympy scikit-learn statsmodels pandasql_ **# if you have them already installed and want to upgrade to lates and greatest.**
+
+
+
 
 #### Orange Installation (usually Anaconda has the Orange installed by default or is easy to install thru navigator) I'm using macOS for this part:
 **Documentation:** _https://orange.biolab.si/download/_
