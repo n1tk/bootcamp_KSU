@@ -30,6 +30,9 @@ Installation Documentation:
 
 ##### Install, Update or upgrade required packages:
 * _conda install -c https://conda.anaconda.org/anaconda seaborn_ #seaborn is required the latest version.
+or
+* _pip install git+https://github.com/mwaskom/seaborn.git #https://seaborn.pydata.org/installing.html
+
 * _conda install -y --name bootcamp_DS numpy scipy matplotlib pandas sympy scikit-learn statsmodels pandasql_ **# all Linear algebra we can do with the numpy library but installing all the dependencies from begining.**
 * _conda update -y --name bootcamp_DS numpy scipy matplotlib pandas sympy scikit-learn statsmodels pandasql_ **# if you have already installed the libraries.**
 * _conda upgrade -y --name bootcamp_DS numpy scipy matplotlib pandas sympy scikit-learn statsmodels pandasql_ **# if you have them already installed and want to upgrade to lates and greatest.**
