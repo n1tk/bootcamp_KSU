@@ -7,7 +7,10 @@
 
 #### For setup please follow: bootcamp_KSU/setup/setup.md
 
+##### For getting familiar with Jupyter notebook please visit: https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
+
 ##### 1:00pm
+
 * Data Management/Joining/Linking/Simple Calculations
 
 * Applied Linear Algebra/Linear Modeling
