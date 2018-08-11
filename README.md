@@ -15,7 +15,7 @@
 * Multivariate Modeling
 
 * Visualization
-![alt text](https://github.com/sb0709/bootcamp_KSU/blob/master/pictures/Analytics%20and%20Data%20Science%20Institute_logo.png?raw=true)
+![alt text](https://github.com/sb0709/bootcamp_KSU/blob/master/pictures/Modeling_using_Visual_Programming_in_Orange3.png?raw=true)
 ##### 4:00pm End of Class
 
 Note:
