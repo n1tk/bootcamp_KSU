@@ -16,21 +16,21 @@ Installation Documentation:
 * _conda update -n base -c defaults conda_
 
 ##### Update or upgrade pip
-* _conda install pip or conda update pip_ ** or ** _conda upgrade pip_
+* _conda install pip or conda update pip_ **or** _conda upgrade pip_
 
 ##### Create new environment
 * _conda create -n bootcamp_DS python=3.6_
 
 ##### Activate new environemnt and install dependencies:
-* _source activate bootcamp_DS_  ** # On Windows, remove the word 'source'. **
+* _source activate bootcamp_DS_  **# On Windows, remove the word 'source'.**
 
 ##### Install, Update or upgrade required packages:
-* _conda install -y --name bootcamp_DS numpy scipy matplotlib pandas sympy seaborn=0.9.0 scikit-learn statsmodels pandasql_ ** # all Linear algebra we can do with the numpy library but installing all the dependencies from begining.**
-* _conda update -y --name bootcamp_DS numpy scipy matplotlib pandas sympy seaborn=0.9.0 scikit-learn statsmodels pandasql_ ** # if you have already installed the libraries.**
-* _conda upgrade -y --name bootcamp_DS numpy scipy matplotlib pandas sympy seaborn=0.9.0 scikit-learn statsmodels pandasql_ ** # if you have them already installed and want to upgrade to lates and greatest.**
+* _conda install -y --name bootcamp_DS numpy scipy matplotlib pandas sympy seaborn=0.9.0 scikit-learn statsmodels pandasql_ **# all Linear algebra we can do with the numpy library but installing all the dependencies from begining.**
+* _conda update -y --name bootcamp_DS numpy scipy matplotlib pandas sympy seaborn=0.9.0 scikit-learn statsmodels pandasql_ **# if you have already installed the libraries.**
+* _conda upgrade -y --name bootcamp_DS numpy scipy matplotlib pandas sympy seaborn=0.9.0 scikit-learn statsmodels pandasql_ **# if you have them already installed and want to upgrade to lates and greatest.**
 
 #### Orange Installation (usually Anaconda has the Orange installed by default or is easy to install thru navigator) I'm using macOS for this part:
-** Documentation: ** _https://orange.biolab.si/download/_
+**Documentation:** _https://orange.biolab.si/download/_
 * conda config --add channels conda-forge
 * conda install -y --name bootcamp_DS orange3
 * conda install -c defaults pyqt=5 qt
