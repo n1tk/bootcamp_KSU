@@ -2,9 +2,10 @@
 
 ![alt text](https://github.com/sb0709/bootcamp_KSU/blob/master/pictures/Analytics%20and%20Data%20Science%20Institute_logo.png?raw=true)
 
-# For setup please follow: bootcamp_KSU/setup/setup.md
-
 ### Content
+
+#### For setup please follow: bootcamp_KSU/setup/setup.md
+
 ##### 1:00pm
 * Data Management/Joining/Linking/Simple Calculations
 
