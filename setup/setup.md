@@ -46,6 +46,11 @@ or
 * conda install -y --name bootcamp_DS orange3
 * conda install -c defaults pyqt=5 qt
 
+#### Pytorch GPU Linux install for me ###############
+
+* conda install -y --name spinningup pytorch torchvision cuda100 -c pytorch
+
+
 
 ##### Documentation:
 https://ipython.readthedocs.io/en/stable/install/kernel_install.html
